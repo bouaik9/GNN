@@ -6,8 +6,6 @@ import numpy as np
 import seaborn as sns
 from sklearn.cluster import KMeans
 import community.community_louvain as community_louvain
-import json
-import os
 from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
